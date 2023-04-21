@@ -5,6 +5,7 @@ if number from a range (below 10 so 0-10 in test case) is devided by 3 or 5 with
 2. Take a sum
 '''
 
+
 def find_multiples(before):
     multiples = []
     for number in range(1, before):
